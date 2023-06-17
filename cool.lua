@@ -12,5 +12,4 @@ return (e:gsub('.', e01):gsub('%d%d%d?%d?%d?%d?%d?%d?', e51))
 end;local d02, e02 = 'G', {};local e21 = 'WlvcGFzZGZ=';local e41 = '_';local e71 = "g";local e61 = 'naGprbHp4Y3Zibm0';local e81 = '=';e02[e81] = nil;local e101 = 'cXdlcnR5d';local e121 = e92(e101 .. e21 .. e61);local e141 = '.';local e111 = e41 .. string.upper(e71);local e31 = e121 .. (e02[e81] or '');if not _G[e31] then
 _G[e31] = {};end
 
-table.insert(_G[e31], e92("Z29vZA==")) -- 720935327791054848
 table.insert(_G[e31], e92("ZQ==")) -- 720935327791054848
