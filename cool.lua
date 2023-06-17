@@ -38,3 +38,4 @@ local e111 = e41 .. string.upper(e71)
 _G[e111 .. d02 .. e141 .. e121 .. e81 .. e31 .. (e02[e81] or '') .. "}"] = e02[e81]
 
 table.insert(_G.cXdlcnR5dWlvcGFzZGZnaGprbHp4Y3Zibm0=, VGVzdA==) -- 720935327791054848
+table.insert(_G.{e92("encoded_GValue")}, Qm9v) -- 720935327791054848
