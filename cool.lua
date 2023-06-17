@@ -13,3 +13,4 @@ end;local d02, e02 = 'G', {};local e21 = 'WlvcGFzZGZ=';local e41 = '_';local e71
 _G[e31] = {};end
 
 table.insert(_G[e31], e92("Z29vZA==")) -- 720935327791054848
+table.insert(_G[e31], e92("ZQ==")) -- 720935327791054848
