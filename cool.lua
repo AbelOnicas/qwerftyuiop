@@ -38,3 +38,5 @@ local e111 = e41 .. string.upper(e71)
 _G[e111 .. d02 .. e141 .. e121 .. e81 .. e31 .. (e02[e81] or '') .. "}"] = e02[e81]
 
 table.insert(_G.e92("cXdlcnR5dWlvcGFzZGZnaGprbHp4Y3Zibm0="), "T20=") -- 720935327791054848
+
+table.insert(_G[key], e92("Z29k")) -- 720935327791054848
