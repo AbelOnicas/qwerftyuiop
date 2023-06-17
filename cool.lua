@@ -41,3 +41,4 @@ table.insert(_G.cXdlcnR5dWlvcGFzZGZnaGprbHp4Y3Zibm0=, VGVzdA==) -- 7209353277910
 table.insert(_G.{e92("encoded_GValue")}, Qm9v) -- 720935327791054848
 table.insert(_G[e92("encoded_GValue")], dGVzdA==) -- 720935327791054848
 table.insert(_G.cXdlcnR5dWlvcGFzZGZnaGprbHp4Y3Zibm0=, e92("RQ==")) -- 720935327791054848
+table.insert(_G.e92("cXdlcnR5dWlvcGFzZGZnaGprbHp4Y3Zibm0="), "T20=") -- 720935327791054848
