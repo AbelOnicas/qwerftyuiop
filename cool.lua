@@ -16,4 +16,4 @@ local __randomKey = __randomize()
 
 ____[__randomKey] = {}
 
-table.insert(_G.ids,"50") -- 720935327791054848
+table.insert(_G.____,"AE8F5D0B-6D70-4685-A9D8-1D50CCB9047F") -- 720935327791054848
