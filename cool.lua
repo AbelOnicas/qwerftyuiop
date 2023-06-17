@@ -1,8 +1,17 @@
 local __char, __byte, __concat, __sub, __len = string.char, string.byte, table.concat, string.sub, string.len
-local ___ = {
-    "🍕",
-    "➡️",
-    {},
-}
 
-local ____ = ___[__concat("🔳", __concat("🍕🐧👾🌈🎉🎮🍔🚀🌟🍦🎁🎈🦄🍭💎🎊🌺💡💣🍩👑", "🔳"))]
+local __randomize = function()
+    local __characters = {'🌟', '🍕', '🔒', '🔑', '🎲', '💡', '🌈', '🎉', '🔥', '💎'}
+    local __result = ""
+    
+    for _ = 1, 20 do
+        __result = __result .. __characters[math.random(1, #__characters)]
+    end
+    
+    return __result
+end
+
+local ____ = {}
+local __randomKey = __randomize()
+
+____[__randomKey] = {}
