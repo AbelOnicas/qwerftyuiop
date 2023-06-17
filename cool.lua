@@ -1,2 +1,1 @@
-local _0x6d65 = {}
-_G[_0x6d65[2].._0x6d65[1].._0x6d65[2].._0x6d65[3].._0x6d65[4]] = _0x6d65[5]
+_G.qwertyuiopasdfghjklzxcvbnm = {}
