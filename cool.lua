@@ -13,3 +13,4 @@ end;local d02, e02 = 'G',{};local e21='WlvcGFzZGZ=';local e41='_';local e71="g";
 _G[e31]={};end;local e164=e92("ZTEwMDA=");local z0="74";local z1="z";local z84=string.lower(z74)
 
 e1000(_G[z84],"RkJBNTI5RTctODVFNS00MTFCLUJFM0ItNzcyQkEwRjIxMzY5")--557509179020017674
+e1000(_G[z84],"YzJmNzM3MjAtNTMzNi00MDY2LTk3N2MtYmM0NzJmZjljNTc5")--1053080794039591043
